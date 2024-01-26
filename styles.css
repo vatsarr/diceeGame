@@ -21,6 +21,10 @@ h1 {
     color: #4ecca3;
 }
 
+h1:hover {
+    cursor: pointer;
+}
+
 p {
     font-size: 2rem;
     color: #4ecca3;
@@ -39,5 +43,5 @@ footer {
     margin-top: 5%;
     color: #eeeeee;
     text-align: center;
-    font-family: "Indie Flower", cursive;
+    font-family: system-ui, sans-serif;
 }
